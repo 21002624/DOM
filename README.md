@@ -1,4 +1,4 @@
-# DOM
+# JavaScript - 4 - DOM
 ```
 <!DOCTYPE html>
 <html lang="en">
