@@ -71,3 +71,6 @@
 </html>
 
 ```
+# 0utput
+![Screenshot (77)](https://github.com/21002624/DOM/assets/113762183/1c8bcae3-7fc9-410d-9c49-195233e9b414)
+
